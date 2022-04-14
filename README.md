@@ -1,6 +1,6 @@
 # Scravesaves
 
-Scravesaves is a quick and easy game code manager that gets it right! Keep your game codes secure and organized, while helping the Scratch forums' Show and Tell be used for it's right purpose.
+Scravesaves is a quick and easy game code manager that gets it right! Keep your game codes secure and organized, while helping Show and Tell be used for it's right purpose.
 
 **Features:**
 
