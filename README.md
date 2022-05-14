@@ -1,15 +1,7 @@
-# Zedexi
+![alt text](https://assets.scratch.mit.edu/21cffe4b906842b6287ff93a062dcea8.svg)
 
-Zedexi is a quick and easy game code manager that gets it right! Keep your game codes secure and organized, while helping Show and Tell be used for it's right purpose.
+→ Advanced security; with passwords, rate limits, and data deletion. 🔐
 
-**Features:**
+→ Simple fun text designs for everyone to understand and enjoy. 🌷
 
-🔐 Advanced security to keep your game codes safe, with rate limits and passwords!
-
-🌈 Simple colorful UI with playful emojis for all ages to understand and enjoy!
-
-🔑 Settings to make everyone feel great, with options to delete specific data!
-
-🥽 Your codes and information are private, nobody can see your data!
-
-🍡 Fair amounts of updates every month!
+→ Easy import/export capabilities to keep transferring of data easy. 📩
